@@ -1,0 +1,17 @@
+# Altium Designer gitignore template
+
+# History directories
+__Backup/
+History/
+
+# Logs and status files
+*.log
+*.Txt
+*Status Report.*
+
+# Output files
+Outputs/
+Project Outputs for */
+
+# Lock files (temporary files open while Altium is running)
+*.~Lock.*
